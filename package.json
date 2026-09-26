@@ -1,5 +1,5 @@
 {
-  "name": "day1-stripe-webhook-kit",
+  "name": "stripe-subscription-webhook-kit",
   "version": "0.1.0",
   "private": true,
   "scripts": {

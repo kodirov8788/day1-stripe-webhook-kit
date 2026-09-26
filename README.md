@@ -1,4 +1,4 @@
-# Day-1 Stripe Webhook Kit
+# Stripe Subscription Webhook Kit
 
 **Portfolio demo**: Production-ready Next.js + Stripe subscription webhooks with proper security hardening.
 
@@ -72,8 +72,8 @@ The `/api/webhooks/stripe` route implements:
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/kodirov8788/day1-stripe-webhook-kit.git
-cd day1-stripe-webhook-kit
+git clone https://github.com/kodirov8788/stripe-subscription-webhook-kit.git
+cd stripe-subscription-webhook-kit
 npm install
 ```
 
@@ -214,7 +214,7 @@ Connection poolers (PgBouncer) don't support migration commands. Prisma needs:
 ## 📁 Project Structure
 
 ```
-day1-stripe-webhook-kit/
+stripe-subscription-webhook-kit/
 ├── app/
 │   ├── api/
 │   │   ├── checkout/
